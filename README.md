@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/agentic-workflows.git
+git clone https://github.com/19035100Arpit/Agentic-Workflows
 
 # Navigate to project
 cd agentic-workflows
